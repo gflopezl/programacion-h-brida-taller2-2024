@@ -1,0 +1,7 @@
+{
+  "name": "programacion-hbrida-taller2-2024",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
